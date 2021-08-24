@@ -6,6 +6,7 @@
 #include <gloox/client.h>
 #include <gloox/message.h>
 #include <gloox/messagehandler.h>
+// todo esto es una porqueria
 #include <gloox/connectionlistener.h>
 
 using namespace std;
